@@ -1,0 +1,24 @@
+{
+  "name": "persistentprogrammingjs",
+  "version": "1.0.0",
+  "description": "Persistent programming for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/unsegnor/persistentprogrammingjs.git"
+  },
+  "keywords": [
+    "persistent",
+    "programming",
+    "js"
+  ],
+  "author": "Víctor Calatayud Asensio",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/unsegnor/persistentprogrammingjs/issues"
+  },
+  "homepage": "https://github.com/unsegnor/persistentprogrammingjs#readme"
+}
